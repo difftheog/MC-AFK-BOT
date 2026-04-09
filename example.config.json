@@ -1,0 +1,5 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "guildId": "YOUR_DISCORD_GUILD_ID",
+  "prefix": "?"
+}
