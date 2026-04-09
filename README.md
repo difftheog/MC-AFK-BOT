@@ -124,7 +124,7 @@ The following are **not permitted** without written permission from the author:
 
 The `LICENSE` file is a required component of the software — deleting or modifying it violates these terms and will prevent the bot from starting.
 
-See the [`LICENSE`](./LICENSE) file for the full terms.
+See the [`LICENSE`](./LICENSE.md) file for the full terms.
 
 ---
 
