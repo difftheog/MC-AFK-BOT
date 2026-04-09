@@ -52,7 +52,7 @@ const ERROR   = tag(c.bgRed,     'ERROR');
 const LICENSE = tag(c.bgRed,     'LICENSE');
 
 // ─── License check ────────────────────────────────────────────────────────────
-if (!fs.existsSync('./LICENSE')) {
+if (!fs.existsSync('./LICENSE.md')) {
   console.log('');
   console.log(`${LICENSE} LICENSE file is missing.`);
   console.log(`${LICENSE} This software is protected under a custom license.`);
