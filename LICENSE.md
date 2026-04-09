@@ -38,7 +38,7 @@ This LICENSE file is a functional component of the software. Deleting, altering,
 **CONTACT**
 
 To request permissions, contact BetterDiff through:
-- **GitHub:** github.com/difftheog
+- **GitHub:** https://github.com/difftheog
 - **Discord:** @diff.ly
 
 ---
