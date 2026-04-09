@@ -111,10 +111,23 @@ When you run `?premjoin`, the bot will send you a Microsoft login link in Discor
 
 ## License
 
-Source-available. You may view, run, and privately modify the code. Distribution, public hosting, and commercial use are not permitted.
+**MC AFK Bot** is released under a custom source-available license.
+
+You may view, run, and privately modify the code for personal use.  
+The following are **not permitted** without written permission from the author:
+
+- Redistribution or publishing of the source code or any derivative
+- Sublicensing or transferring rights to others
+- Commercial use or monetisation
+- Publicly hosting this bot or any derivative
+- Removing or altering copyright notices, watermarks, or this license
+
+The `LICENSE` file is a required component of the software — deleting or modifying it violates these terms and will prevent the bot from starting.
+
+See the [`LICENSE`](./LICENSE) file for the full terms.
 
 ---
 
 ## Credits
 
-Developed by [**@BetterDiff\_**](https://github.com/difftheog)
+Developed by [**@BetterDiff\_**](https://github.com/difftheog) · Discord: `@diff.ly`
